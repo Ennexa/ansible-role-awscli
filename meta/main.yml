@@ -18,6 +18,5 @@ galaxy_info:
     - cloud
     - aws
     - s3
-dependencies:
-  - saucelabs-ansible.pip
+dependencies: []
 
